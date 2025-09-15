@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Go - AI Travel Planner",
+  "description": "An AI-powered travel planner that generates detailed itineraries for trips between two destinations using Gemini. Enter your start and end points to get a personalized travel plan.",
+  "requestFramePermissions": []
+}
